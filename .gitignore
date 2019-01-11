@@ -1,0 +1,8 @@
+startup.sh
+.pytest_cache
+*__pycache__
+venv
+emails.py
+py_slack.csv
+quiz.py
+eggs.csv
